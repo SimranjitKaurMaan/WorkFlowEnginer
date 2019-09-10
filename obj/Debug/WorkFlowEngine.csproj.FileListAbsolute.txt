@@ -1,0 +1,7 @@
+C:\myprojects\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe.config
+C:\myprojects\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe
+C:\myprojects\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.pdb
+C:\myprojects\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csprojAssemblyReference.cache
+C:\myprojects\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\myprojects\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.exe
+C:\myprojects\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.pdb
